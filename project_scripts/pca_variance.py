@@ -1,4 +1,4 @@
-# Created by Sam Yoon 
+# Created by Sam Yoon and Ifeanyi Osuchukwu
 
 import numpy as np
 import pandas as pd
